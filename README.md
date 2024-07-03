@@ -1,6 +1,6 @@
 # knights-travails
 
-Displays the shortest path from a to b for a knight on a chessboard
+Displays the shortest path from _a_ to _b_ for a knight on an 8x8 chessboard
 
-- data structure for number of moves for each square: edge list
-- search algorithm: bfs
+- Data structure for number of moves for each square: Edge list
+- Search algorithm: BFS
